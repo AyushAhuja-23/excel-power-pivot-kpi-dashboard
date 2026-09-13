@@ -117,12 +117,12 @@ Planned expansions — not started yet, listed here separately so the structure 
 
 ---
 
-## 👤 Author
+## 👤 ### Author
 
-**Ayush Ahuja**
-Mechanical Engineer | Data & Logistics Analyst
-[LinkedIn](https://linkedin.com/in/AyushAhuja-23) · [GitHub](https://github.com/AyushAhuja-23)
+**Ayush Ahuja**  
+Data & Logistics Analyst � [GitHub](https://github.com/AyushAhuja-23) � [Email](mailto:ahujaayush@outlook.com)](https://github.com/AyushAhuja-23)
 
 ---
 
 *This portfolio is part of an ongoing professional development initiative focused on data analysis applied to logistics, supply chain and operations.*
+
