@@ -513,8 +513,9 @@ Location: Ahmedabad, Gujarat, India
 
 Connect with me:
 - GitHub: https://github.com/AyushAhuja-23
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/ayush-ahuja-356400279/]
+- Email: ahujaayush@outlook.com
+- 
 
 ---
 
