@@ -73,7 +73,7 @@ See [Roadmap](#️-roadmap) below for planned additions (Tableau, Power BI, SQL,
 ### Python setup
 
 ```bash
-git clone https://github.com/Gainciarte/data_analysis_projects.git
+git clone https://github.com/AyushAhuja-23/data_analysis_projects.git
 cd data_analysis_projects
 pip install -r requirements.txt
 ```
@@ -119,9 +119,9 @@ Planned expansions — not started yet, listed here separately so the structure 
 
 ## 👤 Author
 
-**Gustavo Inciarte**
+**Ayush Ahuja**
 Mechanical Engineer | Data & Logistics Analyst
-[LinkedIn](https://linkedin.com/in/gainciarte) · [GitHub](https://github.com/Gainciarte)
+[LinkedIn](https://linkedin.com/in/AyushAhuja-23) · [GitHub](https://github.com/AyushAhuja-23)
 
 ---
 
